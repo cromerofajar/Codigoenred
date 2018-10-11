@@ -12,6 +12,7 @@ package holamundo;
 public class HolaMundo2 {
     public static void hg(String[] args) {
         System.out.println("Mundo Mundo2");
+        System.out.ptintln("cambio de prueba");
     
 }
 }
